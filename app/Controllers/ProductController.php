@@ -15,7 +15,7 @@ class ProductController extends BaseController
 
     public function find($prod_name){
         // echo "Product : ".$prod_name;
-        // $data['name'] = $prod_name;
+        // $data['name'] = $prod_name;php
         // $data['prod_list'] = ["nokia", "redmi", "samsung"];
 
         //easier way to do this
