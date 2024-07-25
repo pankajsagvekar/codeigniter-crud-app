@@ -150,7 +150,8 @@ nav {
     display: flex;
     font-weight: bold;
     justify-content: space-between;
-    margin-bottom: 7rem;
+    margin-bottom: 1rem;
+    background-color: var(--color-accent);
 }
 
 nav ul {
@@ -228,7 +229,6 @@ h4,
 h5,
 h6 {
     line-height: var(--line-height);
-    text-wrap: balance;
 }
 
 mark {
@@ -304,7 +304,7 @@ input[type="submit"] {
     font-weight: bold;
     line-height: var(--line-height);
     margin: 0.5rem 0;
-    padding: 1rem 2rem;
+    padding: .5rem 1rem;
 }
 
 button,

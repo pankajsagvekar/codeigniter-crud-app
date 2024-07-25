@@ -1,8 +1,8 @@
 <nav>
     <h1>NavBar</h1>
     <ul>
-        <li>s</li>
-        <li>s</li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/students">Students</a></li>
         <li>s</li>
         <li>s</li>
     </ul>

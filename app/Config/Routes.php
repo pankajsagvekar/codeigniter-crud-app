@@ -18,6 +18,8 @@ $routes->group('users', static function ($routes) {
     $routes->get('orders', 'ProductController::order'); // users/orders
 });
 
+$routes->get('/students', 'StudentController::index');
+
 //to return page witout using controller
 // $routes->get('profile', function(){
 //    return "i am single product"; 
